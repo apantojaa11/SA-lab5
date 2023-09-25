@@ -3,5 +3,5 @@ python manage.py runserver
 
 http://localhost:8000/polls/
 
-# project directory: 
+project directory: 
 ap_prj
